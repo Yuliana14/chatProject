@@ -1,0 +1,23 @@
+{
+  "name": "chatproject",
+  "version": "1.0.0",
+  "description": "chat with socket",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "moment": "^2.27.0",
+    "nodemon": "^2.0.4",
+    "npm-start-command": "^1.0.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon main.js",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC"
+}
