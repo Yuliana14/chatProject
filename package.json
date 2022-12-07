@@ -4,7 +4,7 @@
   "description": "chat with socket",
   "main": "main.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "jade": "^1.11.0",
     "moment": "^2.27.0",
     "nodemon": "^2.0.4",
